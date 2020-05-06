@@ -1,0 +1,9 @@
+@import '../../node_modules/bulma/sass/utilities/initial-variables';
+@import '../../node_modules/bulma/sass/utilities/functions';
+
+$primary: #246EB9;
+
+$family-sans-serif: 'Lato', sans-serif;
+$family-monospace: 'Open Sans', sans-serif;
+
+@import '../../node_modules/bulma/bulma';
